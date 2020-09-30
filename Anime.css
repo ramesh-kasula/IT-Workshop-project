@@ -1,0 +1,36 @@
+body
+  {
+      background-color: darkslategrey;
+  }
+h1
+{
+    text-shadow: 2px 2px red
+} 
+a
+{
+    color:rgb(37, 6, 6);
+}
+p
+{
+    font-size: large;
+}
+table
+{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+th 
+{
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color:green;
+}
+td 
+{
+    font-family: monospace;
+    font-weight: bold;
+    font-size: large;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
